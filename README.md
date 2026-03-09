@@ -1,4 +1,4 @@
-# 50-prompts-ai-pour-le-classement-atp
+# 50 Prompts AI pour le Classement ATP
 
 Développez votre contenu de tennis avec ces 50 prompts AI uniques et utiles, spécifiquement conçus pour le classement ATP. Ces prompts vous aideront à générer des articles, des analyses et des prévisi
 
@@ -6,7 +6,7 @@ Développez votre contenu de tennis avec ces 50 prompts AI uniques et utiles, sp
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 45 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Développez votre contenu de tennis avec ces 50 prompts AI uniques et utiles, sp
 ## Sample
 
 ```json
-Keys: title, description, price
+"Qui sont les 5 meilleurs joueurs de tennis de tous les temps selon le classement ATP ?"
 ```
 
 ## Usage
